@@ -3,7 +3,7 @@
 [![YT](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzJ_wD4rjeViSjQ2mXyXA_g)
 [![TWIITER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ynexusjs)
 
-![Nexus GitHub stats](https://github-readme-stats.vercel.app/api?username=NexusJS&show_icons=true&theme=gruvbox)
+![Nexus GitHub stats](https://github-readme-stats.vercel.app/api?username=yNexusJS&show_icons=true&theme=gruvbox)
 
 
 ## Tecnologias que eu uso:
